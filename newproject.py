@@ -39,20 +39,6 @@ button.place(relx=0.5, rely=0.55, relwidth=0.2, relheight=0.2)
 button = tk.Button(root, text = "Stall 8", bd=5)
 button.place(relx=0.75, rely=0.55, relwidth=0.2, relheight=0.2)
 
-
-
-canvas_2 = tk.Canvas(root, height=HEIGHT, width=WIDTH)
-canvas.pack()
-
-canvas_3 = tk.Canvas(root, height=HEIGHT, width=WIDTH)
-canvas.pack()
-
-canvas_4 = tk.Canvas(root, height=HEIGHT, width=WIDTH)
-canvas.pack()
-
-
-
-
 #INSERT CODE ABOVE HERE ^^^^^^^^
 
 
